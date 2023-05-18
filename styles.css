@@ -1,2 +1,12 @@
 
 /* Your CSS Code here. */
+.a1{
+	width:200px;background:purple;
+	border-left:5px solid green;
+	font-size:20px;
+	text-decoration:underline;
+	color:white;
+	padding:10px;
+	
+	
+}
